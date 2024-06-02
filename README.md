@@ -19,3 +19,9 @@ git add .
 git commit -m "initial commit"
 ## Step 7. Git Push To GitHub
 git push origin main
+## Choose Your Data Set
+Choose one of the data sets and use it to practice all the skills that go into a Python Exploratory Data Analysis project. 
+## Document Your Data Set
+Add a description of your dataset and a clickable link to your README.md file. Choose one of the following options. 
+Option 1. Add Dataset Description & Link Locally - the Easy, Safe Way
+Edit your README.md on your machine using VS Code, and git add, commit, and push your data addition to the GitHub repository. If you always edit on your machine, it's easy to keep things in sync with git add/commit/push and avoid dreaded merge conflicts.
