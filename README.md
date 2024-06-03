@@ -21,6 +21,7 @@ git commit -m "initial commit"
 git push origin main
 ## Choose Your Data Set
 Choose one of the data sets and use it to practice all the skills that go into a Python Exploratory Data Analysis project. 
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
 ## Document Your Data Set
 Add a description of your dataset and a clickable link to your README.md file. Choose one of the following options. 
 Option 1. Add Dataset Description & Link Locally - the Easy, Safe Way
