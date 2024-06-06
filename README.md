@@ -48,7 +48,7 @@ print(titanic_df.head())
 titanic_df.to_csv('titanic_dataset.csv', index=False)
 ```
 
-## We will look at information pertaining to the death rates by gender and class.
+## Death rates by gender and class.
 
 ## Graph of age distribution
 ```bash
