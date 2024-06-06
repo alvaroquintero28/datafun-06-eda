@@ -35,7 +35,7 @@ Add a description of your dataset and a clickable link to your README.md file. C
 Option 1. Add Dataset Description & Link Locally - the Easy, Safe Way
 Edit your README.md on your machine using VS Code, and git add, commit, and push your data addition to the GitHub repository. If you always edit on your machine, it's easy to keep things in sync with git add/commit/push and avoid dreaded merge conflicts.
 
-## I wll be looking at the titanic data set from seaborn. It is a built in data set, so no other imports were needed. I displayed the head to help observe the data.
+## Titanic data set from seaborn.
 
 ```bash
 # Load the Titanic dataset
