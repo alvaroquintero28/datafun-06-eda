@@ -12,6 +12,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 ## Step 5. Manage Your Project Requirements
+python3 -m pip install jupyterlab pandas pyarrow matplotlib seaborn
+python3 -m pip freeze > requirements.txt
 
 ## Step 6. Git Add and Commit Your Changes
 .venv/
